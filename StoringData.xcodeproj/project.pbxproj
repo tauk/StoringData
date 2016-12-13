@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4337CB8D1DFF1704005F7D49 /* ShowAllUsersTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4337CB8C1DFF1704005F7D49 /* ShowAllUsersTableViewController.swift */; };
+		4337CB8F1DFF174A005F7D49 /* ShowAllUserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4337CB8E1DFF174A005F7D49 /* ShowAllUserTableViewCell.swift */; };
 		43BF58B01DC0C2C6007EFCDA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BF58AF1DC0C2C6007EFCDA /* AppDelegate.swift */; };
 		43BF58B21DC0C2C6007EFCDA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BF58B11DC0C2C6007EFCDA /* ViewController.swift */; };
 		43BF58B51DC0C2C6007EFCDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43BF58B31DC0C2C6007EFCDA /* Main.storyboard */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4337CB8C1DFF1704005F7D49 /* ShowAllUsersTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowAllUsersTableViewController.swift; sourceTree = "<group>"; };
+		4337CB8E1DFF174A005F7D49 /* ShowAllUserTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowAllUserTableViewCell.swift; sourceTree = "<group>"; };
 		43BF58AC1DC0C2C6007EFCDA /* StoringData.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StoringData.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43BF58AF1DC0C2C6007EFCDA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		43BF58B11DC0C2C6007EFCDA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				43BF58BB1DC0C2C6007EFCDA /* LaunchScreen.storyboard */,
 				43BF58BE1DC0C2C6007EFCDA /* Info.plist */,
 				43BF58B61DC0C2C6007EFCDA /* StoringData.xcdatamodeld */,
+				4337CB8C1DFF1704005F7D49 /* ShowAllUsersTableViewController.swift */,
+				4337CB8E1DFF174A005F7D49 /* ShowAllUserTableViewCell.swift */,
 			);
 			path = StoringData;
 			sourceTree = "<group>";
@@ -142,7 +148,9 @@
 			files = (
 				43BF58B21DC0C2C6007EFCDA /* ViewController.swift in Sources */,
 				43BF58B01DC0C2C6007EFCDA /* AppDelegate.swift in Sources */,
+				4337CB8F1DFF174A005F7D49 /* ShowAllUserTableViewCell.swift in Sources */,
 				43BF58B81DC0C2C6007EFCDA /* StoringData.xcdatamodeld in Sources */,
+				4337CB8D1DFF1704005F7D49 /* ShowAllUsersTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,6 +312,7 @@
 				43BF58C31DC0C2C6007EFCDA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

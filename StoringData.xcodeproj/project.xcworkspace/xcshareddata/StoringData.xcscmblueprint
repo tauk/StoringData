@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F4B914CFC4429AC1CCE99A306CEA95246683EEA0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B5F47C96A6DA8AFAF1974F2837BF1299D84421F2" : 9223372036854775807,
+    "F4B914CFC4429AC1CCE99A306CEA95246683EEA0" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8478ECD5-48F1-4D87-A45A-4DDE8371050D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B5F47C96A6DA8AFAF1974F2837BF1299D84421F2" : "",
+    "F4B914CFC4429AC1CCE99A306CEA95246683EEA0" : "StoringData\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "StoringData",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "StoringData.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tauk\/swift3-examples.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B5F47C96A6DA8AFAF1974F2837BF1299D84421F2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tauk\/StoringData.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4B914CFC4429AC1CCE99A306CEA95246683EEA0"
+    }
+  ]
+}
